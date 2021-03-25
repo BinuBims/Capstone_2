@@ -2,4 +2,10 @@
 
 1. Fish Dataset
    https://www.kaggle.com/crowww/a-large-scale-fish-dataset  
-   Thinking about feeding these data into a CNN, to make predictions. evaluating the final model and comparing it to different model like gradient boosting and random forest
+   Thinking about feeding these data into a CNN, to make predictions. evaluating the final model and comparing it to different model like gradient boosting and random forest.
+   
+2. Alzheimer's Dataset
+   https://www.kaggle.com/tourist55/alzheimers-dataset-4-class-of-images/code
+   Thinking about making a CNN to make prediction about if someone has Alzheimer or not, if someone has to what extent? evaluating and comparing my model to different other models.
+   
+3.
