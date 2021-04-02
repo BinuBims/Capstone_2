@@ -41,7 +41,7 @@ At the end, I was left with transfer learning. My goal was to make a somewhat go
 
 <p align="center">
   <img src="data/Images/tmodel.png" width="400",height="400">
-  <img src="data/Images/tgraph.png" width="400",height="200">
+  <img src="data/Images/tgraph.png" width="200",height="200">
 </p>
 
 
