@@ -32,8 +32,12 @@ It seems like my model start overfitting after a certain number of epochs. I hav
 ### First model after modifying the data set
 
 <p align="center">
-<img src="data/Images/3rdgraph.jpg"  height="400" width="600" />
+<img src="data/Images/3rdgraph.png"  height="400" width="600" />
 </p>
+I ran the same model with my modified data set, and model stop learning after a certain number of epochs. Another disappointment. I kind of figure out why my training accuracy is not getting any better. One reason could be my model has found a local minima. I have some idea to deal with this problem like changing the learing rate. So, it can jump out of that hole and found the global minima. But I decided to not to give it a try since I do not have a lot training data to play with.
+
+### Moving to transfer learning
+At the end, I was left with transfer learning. My goal was to make a somewhat good model, that can predict a monkey species to a certain extent. I decided go  with transfer learning. All credit to MobileNet streamlined architecture making my life easier.
 
 
 
