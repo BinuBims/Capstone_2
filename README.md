@@ -43,6 +43,9 @@ At the end, I was left with transfer learning. My goal was to make a somewhat go
   <img src="data/Images/tmodel.png" width="400",height="400">
   <img src="data/Images/tgraph.png" width="350",height="200">
 </p>
+As you can see in the graph, both test accuracy and test score start looking good. And my final test accuracy was at 93 after 25 epochs. I should mention that my model had trouble finding global minima and wonder around 80's before. I had to change the learning rate when it stops learning from training data set.
+
+
 
 
 
