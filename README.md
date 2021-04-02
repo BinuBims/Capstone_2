@@ -13,7 +13,6 @@ The data set, I have fed into my convolutional neural network came from kaggle (
 ## Workflow
 Let's start with my first model
 <p float="left">
-  <img src="/img1.png" width="100" />
-  <img src="/img2.png" width="100" /> 
-  <img src="/img3.png" width="100" />
+  <img src="data/Images/1stmodel.jpg width="100" />
+  <img src="data/Images/1stgraph.jpg width="100" /> 
 </p>
