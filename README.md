@@ -20,8 +20,8 @@ I have used 4 convolutional layers and two dense layers in my first model and ra
 
 ### Second model
 <p align="center">
-  <img src="data/Images/2nd model.png" width="400">
-  <img src="data/Images/2ndgraph.png" height="400">
+  <img src="data/Images/2nd model.png" hieght="400">
+  <img src="data/Images/2ndgraph.png" height="300">
 </p>
 
 I have reduced the learning rate from .001 to .0001, and included 0.001 of L2 normalization to the second from the last dense layer. I also add 2 more dense layers to make the model more flexible. After 30 epochs, I kind of end up getting the same result as validation accuracy wonders around 70's. Final test accuracy endup being 73. I have seen just a little progress in the second model, but I was not really happy with results I am getting.
