@@ -31,6 +31,9 @@ It seems like my model start overfitting after a certain number of epochs. I hav
 
 ### First model after modifying the data set
 
+<p align="center">
+<img src="data/Images/3rdgraph.jpg"  height="400" width="600" />
+</p>
 
 
 
