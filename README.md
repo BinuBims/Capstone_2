@@ -6,3 +6,6 @@
 
 ## Introduction
 Monkeys are often seen as being cute and highly intelligent animals. There are more than 260 different types of monkeys that have their own characteristics in terms of size, color, location, and even their abilities, But who can remember all 260 species? I can't. So, I decided to build a deep learning model that tells me what kind of monkey I am looking at. Purpose of this study is to gain insight into monkeys and appreciate humans' closest living relatives.
+
+## Data
+The data set, I have fed into convoulutional neural network came from kaggle (https://www.kaggle.com/slothkong/10-monkey-species). I just want to take a moment to thank all the people who has contributed to the dataset and making it more accessible.
