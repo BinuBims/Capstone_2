@@ -16,6 +16,12 @@ The data set, I have fed into my convolutional neural network came from kaggle (
   <img src="data/Images/1stmodel.png" width="400">
   <img src="data/Images/1stgraph.png" height="400">
 </p>
-I have used 4 convolutional layers and two dense layers in my first model and ran it for 100 epochs. Validation loss and training loss get diverged as the model continue to learn predicting training data. This is a sign of overfitting. After a certain point, model start getting good at predicting training data but not the validation data. In the next model, I focus on regularizing my model to prevent overfitting.
+I have used 4 convolutional layers and two dense layers in my first model and ran it for 100 epochs. Validation loss and training loss get diverged as the model continue to learn predicting training data. This is a sign of overfitting. After a certain point, model start getting good at predicting training data but not the validation data. Final test accuracy was at 72 after 100 epochs and quite promising. In the next model, I focus on regularizing my model to prevent overfitting. 
 
 ### Second model
+<p align="center">
+  <img src="data/Images/1stmodel.png" width="400">
+  <img src="data/Images/1stgraph.png" height="400">
+</p>
+
+I have reduced the learning rate from .001 to .0001, and included 0.001 of L2 normalization to the second from the last dense layer. After 30 epochs, I kind of end up getting the same result as validation accuracy wonders around 70's.
