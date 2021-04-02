@@ -40,8 +40,8 @@ I ran the same model with my modified data set, and model stop learning after a 
 At the end, I was left with transfer learning. My goal was to make a somewhat good model, that can predict a monkey species to a certain extent. I decided go  with transfer learning. All credit to MobileNet streamlined architecture making my life easier.
 
 <p align="center">
-  <img src="data/Images/tmodel.png" height="200">
-  <img src="data/Images/tgraph.png" height="200">
+  <img src="data/Images/tmodel.png" width="400",height="400">
+  <img src="data/Images/tgraph.png" width="400",height="400">
 </p>
 
 
