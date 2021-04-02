@@ -16,4 +16,6 @@ Let's start with my first model
   <img src="data/Images/1stmodel.png" width="400">
   <img src="data/Images/1stgraph.png" height="400">
 </p>
-I have used 4 convolutional layers and two dense layers in my first model and ran it for 100 epochs. As you can clealy see in the right graph, validation loss and 
+I have used 4 convolutional layers and two dense layers in my first model and ran it for 100 epochs. Validation loss and training loss get diverged as the model continue to learn predicting training data. This is a sign of overfitting. After a certain point, model start getting good at predicting training data but not the validation data. In the next model, I focus on regularizing my model to prevent overfitting.
+
+### Second model
