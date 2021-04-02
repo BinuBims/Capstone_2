@@ -20,7 +20,7 @@ I have used 4 convolutional layers and two dense layers in my first model and ra
 
 ### Second model
 <p align="center">
-  <img src="data/Images/2ndmodel.png" width="400">
+  <img src="data/Images/2nd model.png" width="400">
   <img src="data/Images/2ndgraph.png" height="400">
 </p>
 
