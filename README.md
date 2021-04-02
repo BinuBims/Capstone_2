@@ -11,7 +11,7 @@ Monkeys are often seen as being cute and highly intelligent animals. There are m
 The data set, I have fed into my convolutional neural network came from kaggle (https://www.kaggle.com/slothkong/10-monkey-species). I just want to take a moment and thank all the people who has contributed to this dataset and making it more accessible.
 
 ## Workflow
-Let's start with my first model
+### Let's start with my first model
 <p align="center">
   <img src="data/Images/1stmodel.png" width="400">
   <img src="data/Images/1stgraph.png" height="400">
